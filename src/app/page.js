@@ -27,8 +27,8 @@ export default function Home() {
           mainHeader={'Contact us'}
         />
         <div className="mt-8">
-          <a className="text-4xl underline text-gray-500" href="tel:+46738123123">
-            +46 738 123 123
+          <a className="text-4xl underline text-gray-500" href="tel:+2344532386266">
+            +234 453 238 6266
           </a>
         </div>
       </section>
